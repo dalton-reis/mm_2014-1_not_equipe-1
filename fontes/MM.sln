@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Anaglyph", "Anaglyph\Anaglyph.vcxproj", "{58249A08-788C-44FC-AE02-E756334DCFC8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dualstereo", "Dualstereo\Dualstereo.vcxproj", "{43D85CE9-55F1-40A1-AFF2-D417D0F24042}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "N234", "N234\N234.vcxproj", "{866E213B-2386-433D-B0D4-EB118F34E745}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58249A08-788C-44FC-AE02-E756334DCFC8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{58249A08-788C-44FC-AE02-E756334DCFC8}.Debug|Win32.Build.0 = Debug|Win32
+		{58249A08-788C-44FC-AE02-E756334DCFC8}.Release|Win32.ActiveCfg = Release|Win32
+		{58249A08-788C-44FC-AE02-E756334DCFC8}.Release|Win32.Build.0 = Release|Win32
+		{43D85CE9-55F1-40A1-AFF2-D417D0F24042}.Debug|Win32.ActiveCfg = Debug|Win32
+		{43D85CE9-55F1-40A1-AFF2-D417D0F24042}.Debug|Win32.Build.0 = Debug|Win32
+		{43D85CE9-55F1-40A1-AFF2-D417D0F24042}.Release|Win32.ActiveCfg = Release|Win32
+		{43D85CE9-55F1-40A1-AFF2-D417D0F24042}.Release|Win32.Build.0 = Release|Win32
+		{866E213B-2386-433D-B0D4-EB118F34E745}.Debug|Win32.ActiveCfg = Debug|Win32
+		{866E213B-2386-433D-B0D4-EB118F34E745}.Debug|Win32.Build.0 = Debug|Win32
+		{866E213B-2386-433D-B0D4-EB118F34E745}.Release|Win32.ActiveCfg = Release|Win32
+		{866E213B-2386-433D-B0D4-EB118F34E745}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
